@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LilyKamenova
+- 👋 Hi, I’m @LilyanaKamenova
 - 👀 I’m interested in QA
 - 🌱 I’m currently learning QA Manual and Automation
 - 💞️ I’m looking to collaborate on QA Manual and Automation
