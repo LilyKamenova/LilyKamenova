@@ -2,7 +2,7 @@
 - 👀 I’m interested in QA
 - 🌱 I’m currently learning QA Manual and Automation
 - 💞️ I’m looking to collaborate on QA Manual and Automation
-- 📫 How to reach me lilykam@abv.bg
+- 📫 How to reach me lkostova29@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I'm kizomba teacher and Gymrat
 
